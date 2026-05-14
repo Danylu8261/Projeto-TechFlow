@@ -1,5 +1,8 @@
 # TechFlow Solutions - Logística
 Projeto para automação de prioridades de entrega.
 
-## Objetivo
-Este script automatiza a classificação de entregas para otimizar a logística da TechFlow.
+## Funcionalidades
+- Validação de níveis de prioridade (Alta, Média, Baixa).
+- Testes automatizados via GitHub Actions.
+
+### Status: Testes automatizados configurados.
