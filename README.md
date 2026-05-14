@@ -11,4 +11,4 @@ Projeto para automação de prioridades de entrega.
 2. Execute o comando: `python main.py`
 3. Digite a prioridade desejada quando solicitado.
 **Desenvolvido por:** Fernando  
-*Projeto de portfólio para automação logística.*
+*Projeto de portfólio para automação logística.*git add
