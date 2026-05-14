@@ -1,4 +1,4 @@
-# Script de validação de prioridades
+# Projeto TechFlow - Versão 1.0
 
 def validar_prioridade(prioridade):
     prioridades_validas = ['Baixa', 'Média', 'Alta']
@@ -10,5 +10,5 @@ if __name__ == "__main__":
         print(f"LOG: Prioridade '{p}' aceita com sucesso.")
     else:
         print(f"ERRO: '{p}' não é uma prioridade válida para o TechFlow.")
-        # Versão final do desafio - TechFlow v1.0
-    ```
+
+# Versão final do desafio - TechFlow v1.0
