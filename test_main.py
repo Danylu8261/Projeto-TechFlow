@@ -8,4 +8,5 @@ def test_prioridade_valida():
 def test_prioridade_invalida():
     assert validar_prioridade('Urgente') == False
 
-# Fim dos testes unitários
+# Fim dos testes unitáriosgit add .
+
