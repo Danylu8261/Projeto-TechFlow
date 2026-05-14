@@ -10,3 +10,5 @@ if __name__ == "__main__":
         print(f"LOG: Prioridade '{p}' aceita com sucesso.")
     else:
         print(f"ERRO: '{p}' não é uma prioridade válida para o TechFlow.")
+        # Versão final do desafio - TechFlow v1.0
+    ```
